@@ -1,4 +1,4 @@
-# All unpinned blobs are extracted from fogo_g V1UFN35H.193-20
+# All unpinned blobs are extracted from pnangn_g U1UFNS34.41-98-3-16
 
 # ACDB Data
 vendor/etc/acdbdata/Bluetooth_cal.acdb
@@ -201,15 +201,15 @@ vendor/lib64/motorola.hardware.camera.desktop@2.0.so
 vendor/lib64/camera/com.qti.sensor.mot_s5k4h7.so
 vendor/lib64/camera/com.qti.sensor.mot_s5kjns.so
 vendor/lib64/camera/com.qti.sensor.mot_sc202acs.so
-vendor/lib64/camera/com.qti.sensormodule.mot_fogo_s5k4h7_sunny.bin
-vendor/lib64/camera/com.qti.sensormodule.mot_fogo_s5kjns_qtech.bin
-vendor/lib64/camera/com.qti.sensormodule.mot_fogo_sc202acs_sunny.bin
+vendor/lib64/camera/com.qti.sensormodule.mot_pnangn_s5k4h7_sunny.bin
+vendor/lib64/camera/com.qti.sensormodule.mot_pnangn_s5kjns_qtech.bin
+vendor/lib64/camera/com.qti.sensormodule.mot_pnangn_sc202acs_sunny.bin
 
 # Camera - tuned
 vendor/lib64/camera/com.qti.tuned.default.bin
-vendor/lib64/camera/com.qti.tuned.mot_fogo_s5k4h7.bin
-vendor/lib64/camera/com.qti.tuned.mot_fogo_sc202acs.bin
-vendor/lib64/camera/com.qti.tuned.mot_fogor_s5kjns.bin
+vendor/lib64/camera/com.qti.tuned.mot_pnangn_s5k4h7.bin
+vendor/lib64/camera/com.qti.tuned.mot_pnangn_sc202acs.bin
+vendor/lib64/camera/com.qti.tuned.mot_pnangnr_s5kjns.bin
 
 # Capsense
 vendor/bin/capsense_reset
@@ -300,10 +300,10 @@ vendor/etc/sensors/config/strait_qmc6308_0.json
 vendor/etc/sensors/sns_reg_config
 
 # Thermal engine - configs
-vendor/etc/thermal-engine-fogo-camera.conf
-vendor/etc/thermal-engine-fogo-game-normal.conf
-vendor/etc/thermal-engine-fogo-game-perf.conf
-vendor/etc/thermal-engine-fogo.conf
+vendor/etc/thermal-engine-pnangn-camera.conf
+vendor/etc/thermal-engine-pnangn-game-normal.conf
+vendor/etc/thermal-engine-pnangn-game-perf.conf
+vendor/etc/thermal-engine-pnangn.conf
 vendor/etc/thermal-engine.conf
 
 # Touchscreen firmware
