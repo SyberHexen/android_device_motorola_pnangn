@@ -23,6 +23,6 @@ PRODUCT_MODEL := moto g 5G - 2023
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="pnangn_g-user 14 U1UFNS34.41-98-3-16 31deb6-790f4 release-keys MUR1-0.252" \
-    BuildFingerprint=motorola/pnangn_g/pnangn:14/U1UFNS34.41-98-3-16/31deb6-790f4:user/release-keys \
+    BuildDesc="pnangn_g-user 14 U1TPNS34.26-78-3-17 0e32f-bf828 release-keys MUR1-0.94" \
+    BuildFingerprint=motorola/pnangn_g/pnangn:14/U1TPNS34.26-78-3-17/0e32f-bf828:user/release-keys \
     DeviceProduct=pnangn_g
