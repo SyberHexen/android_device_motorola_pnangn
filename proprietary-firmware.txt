@@ -7,7 +7,6 @@ dspso.bin:dsp.img;AB
 fsg.mbn:fsg.img;AB
 hyp.mbn:hyp.img;AB
 keymaster.mbn:keymaster.img;AB
-logo.bin:logo.img;AB
 NON-HLOS.bin:modem.img;AB
 prov64.mbn:prov.img;AB
 qupfw.elf:qupfw.img;AB
